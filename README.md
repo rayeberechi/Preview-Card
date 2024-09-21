@@ -1,4 +1,4 @@
-# **Faithy's Preview Card
+## Faithy's Preview Card
 
 ## _This is a challenge from "Frontend Mentors"._
 ---
@@ -23,7 +23,7 @@
 - The design is not 100% responsive and would be modified to be.
 
 
-## ** Credits
+## Credits
 
 - Faith Raymond: Author
 - BlackAdam: Tutor, Web3Bridge Web2CXI
