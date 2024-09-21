@@ -2,7 +2,7 @@
 
 ## _This is a challenge from "Frontend Mentors"._
 ---
-## *Project Files
+## Project Files
 - index.html
 - styles.css
 
